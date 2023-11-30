@@ -1,0 +1,24 @@
+{
+    "liveServer.settings.port": 5501
+}
+
+<section class="main-home" id="home">
+<div class="content">
+<div class="main-text ">
+    <h5 class="buytext reveal-left">BUY YOURS</h5>
+    <h1 class="reveal-left"><span>Oversized</span> <br> T-Shirt</h1>
+    <p class="reveal-left">Upgrade your weekend wardrobe with our oversized t-shirts! Effortless style for those relaxing days</p>
+    <h2 class="reveal-left">Here !
+        <form class="search-box reveal-bottom">
+            <input type="text" placeholder=" "/>
+            <button type="reset"></button>
+          </form>
+    </h2>         
+</div>
+<div class="imgbox reveal-right">
+    <img class="slides" src="./img/Augusto_28thDec7000_720x-removebg-preview.png">
+    <img class="slides" src="img/img11.png" alt="">
+    <img class="slides" src="img/img22.png" alt="">
+    <img class="slides" src="img/image33.png" alt="">
+</div>
+</div>
